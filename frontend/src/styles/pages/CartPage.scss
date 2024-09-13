@@ -1,0 +1,196 @@
+@import '../common/reset';
+@import '../common/variables';
+@import '../common/utils';
+
+.cart-title {
+  font-size: min(5vw, 3rem);
+  text-align: center;
+  padding-bottom: 3rem;
+  font-weight: bold;
+}
+.cart {
+  display: flex;
+  justify-content: center;
+  height: auto;
+  position: relative;
+  gap: 0 5%;
+  button {
+    cursor: pointer;
+  }
+  .cart-items {
+    width: 65%;
+    .cart-selection {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 3rem;
+      font-size: 1.6rem;
+    }
+    .cart-itemLists {
+      .cart-itemList {
+        @include borderSetting;
+        background-color: #fff;
+        margin-bottom: 2rem;
+        box-sizing: border-box;
+        padding: 0 1.5rem 2rem;
+        .cart-seller {
+          text-align: center;
+          font-size: min(3vw, 2rem);
+          border-bottom: 1px solid #ddd;
+          margin-bottom: 2rem;
+          padding: 1rem 0;
+          span {
+            display: block;
+            &:first-child {
+              font-size: min(2.8vw, 1.4rem);
+              color: #aaa;
+            }
+          }
+        }
+        .cartItem {
+          display: flex;
+          align-items: center;
+          margin-bottom: 2rem;
+          .cartItem-check {
+            width: 5%;
+          }
+          .cartItem-img {
+            aspect-ratio: 1 / 1;
+            width: 15%;
+            overflow: hidden;
+            border-radius: 0.5rem;
+            position: relative;
+            @include unablePurcheaseItem;
+            img {
+              width: 100%;
+              height: 100%;
+              object-fit: cover;
+            }
+          }
+          .cartItem-info {
+            width: 75%;
+            box-sizing: border-box;
+            padding-left: 2rem;
+            display: flex;
+            flex-direction: column;
+            .cartItem-category {
+              font-size: min(2.6vw, 1.2rem);
+              color: $main-color;
+              margin-bottom: 1rem;
+            }
+            .cartItem-title {
+              font-size: min(2.8vw, 1.6rem);
+              margin-bottom: 0.5rem;
+            }
+            .cartItem-state {
+              font-size: min(2.7vw, 1.4rem);
+              color: #333;
+              margin-bottom: 0.5rem;
+            }
+            .cartItem-price {
+              font-size: min(2.7vw, 1.4rem);
+              font-weight: bold;
+            }
+            .cartItem-sellStatus {
+              color: red;
+            }
+          }
+          .cartItem-deleteBtn {
+            width: 5%;
+            text-align: center;
+            button {
+              font-size: 1.6rem;
+            }
+          }
+        }
+        .cart-deliveryFee {
+          text-align: center;
+          font-size: 1.3rem;
+        }
+      }
+    }
+  }
+  .cart-amount {
+    position: relative;
+    width: 30%;
+    box-sizing: border-box;
+    padding: 5.3rem 0;
+    .cart-amountBx {
+      position: sticky;
+      @include borderSetting;
+      top: 11rem;
+      display: flex;
+      flex-direction: column;
+      gap: 3rem 0;
+      font-size: 1.6rem;
+      box-sizing: border-box;
+      padding: 2rem;
+      div {
+        display: flex;
+        justify-content: space-between;
+        &.cart-payment {
+          font-weight: bold;
+        }
+      }
+      .cart-paymentBtn {
+        a {
+          display: block;
+          text-align: center;
+          background-color: $btn-color;
+          width: 100%;
+          border-radius: 0.5rem;
+          color: #fff;
+          padding: 1rem 0;
+          font-size: 1.6rem;
+        }
+      }
+    }
+  }
+  .cart-emptybx {
+    text-align: center;
+    h3 {
+      font-size: min(4vw, 3rem);
+      margin-bottom: 2rem;
+    }
+    a {
+      display: inline-block;
+      color: $main-color;
+      font-size: min(3vw, 2.4rem);
+      &:hover {
+        border-bottom: 1px solid $main-color;
+      }
+    }
+  }
+}
+
+// 768px 이하 미디어쿼리
+@media screen and (max-width: $md) {
+  .cart {
+    flex-direction: column;
+    .cart-items {
+      width: 100%;
+      .cart-itemLists {
+        .cart-itemList {
+          .cartItem {
+            .cartItem-check {
+            }
+            .cartItem-img {
+              width: 100px;
+            }
+            .cartItem-info {
+              padding-left: 1rem;
+            }
+          }
+        }
+      }
+    }
+    .cart-amount {
+      width: 100%;
+      position: static;
+      .cart-amountBx {
+        position: static;
+        width: 100%;
+        height: 100%;
+      }
+    }
+  }
+}
