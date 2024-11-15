@@ -6,7 +6,9 @@
 
 🔗 배포 서버 : http://43.201.85.98:8080/
 
-📃 [리블링스 발표자료 PDF](https://github.com/user-attachments/files/17101470/default.pdf)
+📃 발표 자료 : [리블링스 발표자료 PDF](https://github.com/user-attachments/files/17101470/default.pdf)
+
+✏ 프로젝트 회고록 : [Blog](https://daddda3232.tistory.com/category/Project/SeSAC%202%EC%B0%A8%20%ED%8C%80%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 
 <br/>
 
