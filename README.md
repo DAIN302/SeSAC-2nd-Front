@@ -151,21 +151,21 @@
   
 |장바구니 페이지|결제 페이지|
 |---|---|
-|![장바구니](https://file.notion.so/f/f/8973cdde-baf2-48d5-b406-f2623bb76460/d8d4332d-ad76-46e9-a69b-b4aff71d1b98/img.gif?table=block&id=12f6edf9-ca92-80fb-99a1-d78b83d8e031&spaceId=8973cdde-baf2-48d5-b406-f2623bb76460&expirationTimestamp=1731772800000&signature=5F3j-ySkCuWsMbn_8SZ1qXpRpbu3F6Qy3fcdqyENWOE)|![결제](https://file.notion.so/f/f/8973cdde-baf2-48d5-b406-f2623bb76460/8812ce5f-d4c0-4bf4-bbcd-49bceb898b43/img.gif?table=block&id=12f6edf9-ca92-802f-9c3e-fc9d9e829c7b&spaceId=8973cdde-baf2-48d5-b406-f2623bb76460&expirationTimestamp=1731772800000&signature=GkvjDRTn4U6Ua__BtLn1rYzsmMw1GzrcdNOxRftvTfI)|
+|![장바구니](https://blog.kakaocdn.net/dn/uKHZD/btsJImYFx47/CnvUSIYsWUQ5NszkzRiKp0/img.gif)|![결제](https://blog.kakaocdn.net/dn/dgWP0j/btsJIhiODSq/c033xbxHSZTqfkDnumRIH0/img.gif)|
 
 |배송지 추가|배송지 수정|
 |---|---|
-|![배송지 추가](https://file.notion.so/f/f/8973cdde-baf2-48d5-b406-f2623bb76460/f0f42b50-77dd-423b-af1a-fed83a7d7732/img_(2).gif?table=block&id=13f6edf9-ca92-801a-a178-c91bec583ff0&spaceId=8973cdde-baf2-48d5-b406-f2623bb76460&expirationTimestamp=1731772800000&signature=KkiwPNEHbpC8bfd6MJmCH_H591P6ucRtOdvYCPuG9mc)|![배송지 수정](https://file.notion.so/f/f/8973cdde-baf2-48d5-b406-f2623bb76460/b573269d-44f3-4294-b043-9f1114bf42eb/img_(3).gif?table=block&id=13f6edf9-ca92-801d-8c21-f614e2aa80d1&spaceId=8973cdde-baf2-48d5-b406-f2623bb76460&expirationTimestamp=1731772800000&signature=JiScfbTlUOBm72LnLmTN9vVzNMRWshykSjQVLeK9yYo)|
+|![배송지 추가](https://blog.kakaocdn.net/dn/b0ocQ7/btsJIRjGdPC/sX05ndsj55oxGbQ3guKQtK/img.gif)|![배송지 수정](https://blog.kakaocdn.net/dn/bNaQl6/btsJGn57fx5/lJXkA4HB0fGF7qYKKHbUxk/img.gif)|
 
 |배송지 선택|배송지 삭제|
 |---|---|
-|![배송지 선택](https://file.notion.so/f/f/8973cdde-baf2-48d5-b406-f2623bb76460/3917a5f2-e9f9-4ba3-850d-98edfbb113a1/img_(5).gif?table=block&id=13f6edf9-ca92-8054-8e54-d8da965d21b6&spaceId=8973cdde-baf2-48d5-b406-f2623bb76460&expirationTimestamp=1731772800000&signature=AzVNr9okV9wD9r5Aidg7q3WOlHf9bufPhqB8pHzdAFg)|![배송지 삭제](https://file.notion.so/f/f/8973cdde-baf2-48d5-b406-f2623bb76460/c5528f81-5422-4b21-bf12-317b7ff40e9f/img_(4).gif?table=block&id=13f6edf9-ca92-80a7-882a-fac582736da3&spaceId=8973cdde-baf2-48d5-b406-f2623bb76460&expirationTimestamp=1731772800000&signature=awO4CotBCrHjN8AyzNIqKeO1EpHoDap3Kaquv3X2YUI)|  
+|![배송지 선택](https://blog.kakaocdn.net/dn/KZwby/btsJG36TSBm/dbxAX5bzvrcZhBeDk7jW00/img.gif)|![배송지 삭제](https://blog.kakaocdn.net/dn/caArrM/btsJITV3XFA/YU1XEbKRA4fPAoGNSM1cJ0/img.gif)|  
 - 카테고리 별 상품 목록 페이지 레이아웃, 렌더링, 페이지네이션 기능
 - 검색 기능 및 검색 결과 페이지 레이아웃, 렌더링, 페이지네이션 기능
   
 |상품 목록 페이지|검색 목록 페이지|
 |---|---|
-|![상품 목록 페이지](https://file.notion.so/f/f/8973cdde-baf2-48d5-b406-f2623bb76460/1d880a03-d3a0-439f-8ba2-7ffee492dec0/img.gif?table=block&id=12f6edf9-ca92-80db-84a8-e9d7b64e1eed&spaceId=8973cdde-baf2-48d5-b406-f2623bb76460&expirationTimestamp=1731772800000&signature=FypyODJJo3Nzuqb4990UBdh0eI3NkKLKLyjNBT1651M)|![검색 결과 페이지](https://file.notion.so/f/f/8973cdde-baf2-48d5-b406-f2623bb76460/1f3d7d8c-10cb-486c-92a6-3e13dd75873c/img.gif?table=block&id=12f6edf9-ca92-8097-88ff-d628559b1c3a&spaceId=8973cdde-baf2-48d5-b406-f2623bb76460&expirationTimestamp=1731772800000&signature=iYLHlYzpdGDUHKw1EIuHgyqD8I4ZXY7foNuPxI9mE04)|
+|![상품 목록 페이지](https://blog.kakaocdn.net/dn/boctDO/btsJHW60sig/u6aIXemCKnxZLzADnKKJqK/img.gif)|![검색 결과 페이지](https://blog.kakaocdn.net/dn/DpTzm/btsJGTDnVyN/KtJXZYLkc6A7Uk5OQtuESK/img.gif)|
 - 관리자 페이지 레이아웃, 렌더링 및 기능
 
 |관리자 페이지|거래 내역 조회|
