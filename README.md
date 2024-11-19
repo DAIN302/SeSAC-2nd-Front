@@ -4,8 +4,6 @@
 
 <img src="https://snowy-aunt-2ed.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8973cdde-baf2-48d5-b406-f2623bb76460%2F4cdf25a6-9ff3-48de-a282-e661795de1ce%2F%25ED%2599%2594%25EB%25A9%25B4_%25EC%25BA%25A1%25EC%25B2%2598_2024-09-17_211517.jpg?table=block&id=1246edf9-ca92-81d6-9b75-c4348938b93c&spaceId=8973cdde-baf2-48d5-b406-f2623bb76460&width=1420&userId=&cache=v2" width="80%" />
 
-🔗 배포 서버 : http://43.201.85.98:8080/
-
 📃 발표 자료 : [리블링스 발표자료 PDF](https://github.com/user-attachments/files/17101470/default.pdf)
 
 ✏ 프로젝트 회고록 : [Blog](https://daddda3232.tistory.com/category/Project/SeSAC%202%EC%B0%A8%20%ED%8C%80%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
